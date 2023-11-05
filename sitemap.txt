@@ -1,3 +1,5 @@
+https://shuaifeihu.github.io/posts/73f6d7ea.html
+https://shuaifeihu.github.io/posts/3d8da7aa.html
 https://shuaifeihu.github.io/posts/5bf7bd1b.html
 https://shuaifeihu.github.io/posts/77d766bc.html
 https://shuaifeihu.github.io/posts/6cd786eb.html
@@ -7,7 +9,6 @@ https://shuaifeihu.github.io/posts/970e9205.html
 https://shuaifeihu.github.io/posts/39e64ef6.html
 https://shuaifeihu.github.io/posts/b4c99d60.html
 https://shuaifeihu.github.io/readnote/index.html
-https://shuaifeihu.github.io/posts/3d8da7aa.html
 https://shuaifeihu.github.io/posts/acb6948c.html
 https://shuaifeihu.github.io/posts/c2299483.html
 https://shuaifeihu.github.io/posts/57e8c42.html
@@ -60,6 +61,7 @@ https://shuaifeihu.github.io/tags/%E5%88%86%E6%AE%B5%E5%87%BD%E6%95%B0/
 https://shuaifeihu.github.io/tags/%E4%B8%AD%E7%A7%91%E9%99%A2%E6%9C%9F%E5%88%8A/
 https://shuaifeihu.github.io/tags/Grad%E7%AE%97%E5%AD%90/
 https://shuaifeihu.github.io/tags/%E6%8A%98%E7%BA%BF%E5%9B%BE/
+https://shuaifeihu.github.io/tags/rowmove/
 https://shuaifeihu.github.io/categories/Matlab%E7%BC%96%E7%A8%8B/
 https://shuaifeihu.github.io/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/
 https://shuaifeihu.github.io/categories/Hexo%E6%95%99%E7%A8%8B/
