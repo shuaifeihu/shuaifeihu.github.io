@@ -1,3 +1,4 @@
+https://shuaifeihu.github.io/posts/a8a7bb5a.html
 https://shuaifeihu.github.io/posts/73f6d7ea.html
 https://shuaifeihu.github.io/posts/3d8da7aa.html
 https://shuaifeihu.github.io/posts/5bf7bd1b.html
@@ -62,6 +63,7 @@ https://shuaifeihu.github.io/tags/%E4%B8%AD%E7%A7%91%E9%99%A2%E6%9C%9F%E5%88%8A/
 https://shuaifeihu.github.io/tags/Grad%E7%AE%97%E5%AD%90/
 https://shuaifeihu.github.io/tags/%E6%8A%98%E7%BA%BF%E5%9B%BE/
 https://shuaifeihu.github.io/tags/rowmove/
+https://shuaifeihu.github.io/tags/Colormap/
 https://shuaifeihu.github.io/categories/Matlab%E7%BC%96%E7%A8%8B/
 https://shuaifeihu.github.io/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/
 https://shuaifeihu.github.io/categories/Hexo%E6%95%99%E7%A8%8B/
