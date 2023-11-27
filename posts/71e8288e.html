@@ -20,18 +20,21 @@
     var CONFIG = {"hostname":"shuaifeihu.github.io","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":true,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="越努力，越幸运">
-<meta property="og:type" content="website">
-<meta property="og:title" content="YanTuMath">
-<meta property="og:url" content="https://shuaifeihu.github.io/categories/%E6%95%B0%E5%AD%A6%E6%9C%9F%E5%88%8A/index.html">
+  <meta name="description" content="在FreeFEM++中，诺依曼边界条件如下 1+int1d(Th,1,2,3,4)(g*v+g*w+g*q);   这里∇u⋅n&#x3D;g, on ∂Ω\nabla u\cdot \textbf{n}&#x3D;g, \ \text{on}\ \partial\Omega∇u⋅n&#x3D;g, on ∂Ω.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Freefem++中诺依曼边界条件">
+<meta property="og:url" content="https://shuaifeihu.github.io/posts/71e8288e.html">
 <meta property="og:site_name" content="YanTuMath">
-<meta property="og:description" content="越努力，越幸运">
+<meta property="og:description" content="在FreeFEM++中，诺依曼边界条件如下 1+int1d(Th,1,2,3,4)(g*v+g*w+g*q);   这里∇u⋅n&#x3D;g, on ∂Ω\nabla u\cdot \textbf{n}&#x3D;g, \ \text{on}\ \partial\Omega∇u⋅n&#x3D;g, on ∂Ω.">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2023-11-27T13:04:46.000Z">
+<meta property="article:modified_time" content="2023-11-27T13:11:31.860Z">
 <meta property="article:author" content="Hu &amp; Zhao">
-<meta property="article:tag" content="越努力，越幸运">
+<meta property="article:tag" content="Freefem++">
+<meta property="article:tag" content="诺依曼边界条件">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://shuaifeihu.github.io/categories/%E6%95%B0%E5%AD%A6%E6%9C%9F%E5%88%8A/">
+<link rel="canonical" href="https://shuaifeihu.github.io/posts/71e8288e.html">
 
 
 <script id="page-configurations">
@@ -39,12 +42,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 
-  <title>分类: 数学期刊 | YanTuMath</title>
+  <title>Freefem++中诺依曼边界条件 | YanTuMath</title>
   
 
 
@@ -191,51 +194,104 @@
         <div class="content-wrap">
           
 
-          <div class="content category">
+          <div class="content post posts-expand">
             
 
+    
   
   
-  
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        <h2 class="collection-header">数学期刊
-          <small>分类</small>
-        </h2>
-      </div>
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://shuaifeihu.github.io/posts/71e8288e.html">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/myheadpic.jpg">
+      <meta itemprop="name" content="Hu & Zhao">
+      <meta itemprop="description" content="越努力，越幸运">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="YanTuMath">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Freefem++中诺依曼边界条件
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2023-11-27 21:04:46 / 修改时间：21:11:31" itemprop="dateCreated datePublished" datetime="2023-11-27T21:04:46+08:00">2023-11-27</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Freefem-%E7%BC%96%E7%A8%8B/" itemprop="url" rel="index"><span itemprop="name">Freefem++编程</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2023</span>
+        <meta name="referrer" content="no-referrer"/>
+<ul>
+<li>
+<p>在FreeFEM++中，诺依曼边界条件如下</p>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">+<span class="built_in">int1d</span>(Th,<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>,<span class="number">4</span>)(g*v+g*w+g*q);</span><br></pre></td></tr></table></figure>
+</li>
+</ul>
+<p>这里<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">∇</mi><mi>u</mi><mo>⋅</mo><mtext mathvariant="bold">n</mtext><mo>=</mo><mi>g</mi><mo separator="true">,</mo><mtext> on </mtext><mi mathvariant="normal">∂</mi><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\nabla u\cdot \textbf{n}=g, \ \text{on}\ \partial\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">∇</span><span class="mord mathdefault">u</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">⋅</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.44444em;vertical-align:0em;"></span><span class="mord text"><span class="mord textbf">n</span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mspace"> </span><span class="mord text"><span class="mord">on</span></span><span class="mspace"> </span><span class="mord" style="margin-right:0.05556em;">∂</span><span class="mord">Ω</span></span></span></span>.</p>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
+    
+    
+    
 
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2023-07-12T10:38:48+08:00"
-              content="2023-07-12">
-          07-12
-        </time>
-      </div>
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/Freefem/" rel="tag"># Freefem++</a>
+              <a href="/tags/%E8%AF%BA%E4%BE%9D%E6%9B%BC%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6/" rel="tag"># 诺依曼边界条件</a>
+          </div>
 
-      <div class="post-title">
-          <a class="post-title-link" href="/posts/77d766bc.html" itemprop="url">
-            <span itemprop="name">数学类期刊</span>
-          </a>
-      </div>
+        
 
-    </header>
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/posts/a8a7bb5a.html" rel="prev" title="MATLAB自定义Colormap">
+      <i class="fa fa-chevron-left"></i> MATLAB自定义Colormap
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
   </article>
-
-    </div>
-  </div>
   
   
-  
-
   
 
 
