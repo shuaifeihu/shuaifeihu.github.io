@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shuaifeihu.github.io/readnote/index.html</loc>
+    
+    <lastmod>2023-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaifeihu.github.io/about/index.html</loc>
+    
+    <lastmod>2023-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaifeihu.github.io/posts/c59321bf.html</loc>
     
     <lastmod>2023-12-28</lastmod>
@@ -83,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://shuaifeihu.github.io/about/index.html</loc>
-    
-    <lastmod>2023-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://shuaifeihu.github.io/posts/87e7997e.html</loc>
     
     <lastmod>2023-06-02</lastmod>
@@ -122,15 +131,6 @@
     <loc>https://shuaifeihu.github.io/posts/b4c99d60.html</loc>
     
     <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaifeihu.github.io/readnote/index.html</loc>
-    
-    <lastmod>2023-05-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
