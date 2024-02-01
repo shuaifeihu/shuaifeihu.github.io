@@ -1,3 +1,6 @@
+https://shuaifeihu.github.io/posts/564a9e38.html
+https://shuaifeihu.github.io/posts/cd77eff1.html
+https://shuaifeihu.github.io/posts/841e592d.html
 https://shuaifeihu.github.io/readnote/index.html
 https://shuaifeihu.github.io/about/index.html
 https://shuaifeihu.github.io/posts/c59321bf.html
@@ -69,6 +72,7 @@ https://shuaifeihu.github.io/tags/rowmove/
 https://shuaifeihu.github.io/tags/Colormap/
 https://shuaifeihu.github.io/tags/%E8%AF%BA%E4%BE%9D%E6%9B%BC%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6/
 https://shuaifeihu.github.io/tags/Syncthing/
+https://shuaifeihu.github.io/tags/2024%E8%80%83%E7%A0%94%E7%9C%9F%E9%A2%98/
 https://shuaifeihu.github.io/categories/Matlab%E7%BC%96%E7%A8%8B/
 https://shuaifeihu.github.io/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/
 https://shuaifeihu.github.io/categories/Hexo%E6%95%99%E7%A8%8B/
