@@ -1,3 +1,4 @@
+https://shuaifeihu.github.io/posts/e145c574.html
 https://shuaifeihu.github.io/posts/19ee7be8.html
 https://shuaifeihu.github.io/posts/abd96529.html
 https://shuaifeihu.github.io/posts/cd77eff1.html
@@ -77,6 +78,7 @@ https://shuaifeihu.github.io/tags/Syncthing/
 https://shuaifeihu.github.io/tags/2024%E8%80%83%E7%A0%94%E7%9C%9F%E9%A2%98/
 https://shuaifeihu.github.io/tags/Latex/
 https://shuaifeihu.github.io/tags/2024%E8%80%83%E7%A0%94%E7%9C%9F%E9%A2%98%E8%A7%A3%E7%AD%94/
+https://shuaifeihu.github.io/tags/quiver%E5%87%BD%E6%95%B0/
 https://shuaifeihu.github.io/categories/Matlab%E7%BC%96%E7%A8%8B/
 https://shuaifeihu.github.io/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/
 https://shuaifeihu.github.io/categories/Hexo%E6%95%99%E7%A8%8B/
