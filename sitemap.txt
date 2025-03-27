@@ -1,3 +1,4 @@
+https://shuaifeihu.github.io/posts/6968d0ea.html
 https://shuaifeihu.github.io/posts/6a1e5096.html
 https://shuaifeihu.github.io/posts/cafc475d.html
 https://shuaifeihu.github.io/posts/d3aa4e24.html
@@ -88,6 +89,7 @@ https://shuaifeihu.github.io/tags/quiver%E5%87%BD%E6%95%B0/
 https://shuaifeihu.github.io/tags/%E4%B8%AD%E5%BF%83%E5%B7%AE%E5%88%86/
 https://shuaifeihu.github.io/tags/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB/
 https://shuaifeihu.github.io/tags/%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E8%80%83%E7%A0%94%E7%9C%9F%E9%A2%98/
+https://shuaifeihu.github.io/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6/
 https://shuaifeihu.github.io/categories/Matlab%E7%BC%96%E7%A8%8B/
 https://shuaifeihu.github.io/categories/%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6/
 https://shuaifeihu.github.io/categories/Hexo%E6%95%99%E7%A8%8B/
@@ -100,3 +102,4 @@ https://shuaifeihu.github.io/categories/Latex-%E6%95%99%E7%A8%8B/
 https://shuaifeihu.github.io/categories/%E6%9C%89%E9%99%90%E5%B7%AE%E5%88%86/
 https://shuaifeihu.github.io/categories/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/
 https://shuaifeihu.github.io/categories/2025%E5%B9%B4%E7%9C%9F%E9%A2%98/
+https://shuaifeihu.github.io/categories/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/

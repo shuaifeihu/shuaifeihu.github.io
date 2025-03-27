@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shuaifeihu.github.io/posts/6968d0ea.html</loc>
+    
+    <lastmod>2025-03-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaifeihu.github.io/posts/6a1e5096.html</loc>
     
     <lastmod>2025-03-27</lastmod>
@@ -759,6 +768,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://shuaifeihu.github.io/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -840,6 +856,13 @@
   
   <url>
     <loc>https://shuaifeihu.github.io/categories/2025%E5%B9%B4%E7%9C%9F%E9%A2%98/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaifeihu.github.io/categories/%E5%AE%9E%E7%94%A8%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2025-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
